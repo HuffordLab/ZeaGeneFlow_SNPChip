@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  19 OCT 2014 11:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  19 OCT 2014 12:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -248,15 +248,15 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(73.71613pt, 430.00462pt, 110.57425pt)
-* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=430.00462pt
-* \textheight=556.47656pt
-* \oddsidemargin=1.44614pt
-* \evensidemargin=38.30426pt
-* \topmargin=1.12738pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-22.0pt
 * \headheight=8.0pt
 * \headsep=14.0pt
 * \topskip=10.0pt
@@ -291,26 +291,23 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3]
-(./Research Statement.aux) ) 
+[3] (./Research Statement.aux) ) 
 Here is how much of TeX's memory you used:
  3323 strings out of 493315
  43645 string characters out of 6137904
- 110551 words of memory out of 5000000
+ 112537 words of memory out of 5000000
  6578 multiletter control sequences out of 15000+600000
  11237 words of font info for 44 fonts, out of 8000000 for 9000
  1118 hyphenation exceptions out of 8191
- 42i,5n,28p,400b,192s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2013/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmti12.pfb>
-Output written on "Research Statement.pdf" (3 pages, 86241 bytes).
+ 42i,5n,32p,400b,192s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmti12.pfb>
+Output written on "Research Statement.pdf" (3 pages, 85789 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
