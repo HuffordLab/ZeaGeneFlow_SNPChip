@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  19 OCT 2014 13:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  22 OCT 2014 18:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"Research Statement.tex"
-(./Research Statement.tex
+**"Personal Statement.tex"
+(./Personal Statement.tex
 LaTeX2e <2011/06/27>
 Babel <3.9f> and hyphenation patterns for 78 languages loaded.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amscls/amsart.cls
@@ -215,27 +215,27 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 )))
-(./Research Statement.aux)
-\openout1 = `"Research Statement.aux"'.
+(./Personal Statement.aux)
+\openout1 = `"Personal Statement.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Try loading font information for U+msa on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Try loading font information for U+msa on input line 15.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 20.
+LaTeX Font Info:    Try loading font information for U+msb on input line 15.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -287,30 +287,32 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \MPnumerator=\count107
 \makeMPintoPDFobject=\count108
 \everyMPtoPDFconversion=\toks28
-) [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+)
+Underfull \vbox (badness 6741) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-[3] (./Research Statement.aux) ) 
+[3] (./Personal Statement.aux) ) 
 Here is how much of TeX's memory you used:
- 3323 strings out of 493315
- 43645 string characters out of 6137904
- 111537 words of memory out of 5000000
- 6578 multiletter control sequences out of 15000+600000
- 11237 words of font info for 44 fonts, out of 8000000 for 9000
+ 3298 strings out of 493315
+ 43383 string characters out of 6137904
+ 112537 words of memory out of 5000000
+ 6561 multiletter control sequences out of 15000+600000
+ 6890 words of font info for 27 fonts, out of 8000000 for 9000
  1118 hyphenation exceptions out of 8191
- 42i,5n,32p,400b,192s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,6n,32p,443b,192s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmti12.pfb>
-Output written on "Research Statement.pdf" (3 pages, 85581 bytes).
+amsfonts/cm/cmti12.pfb>
+Output written on "Personal Statement.pdf" (3 pages, 82759 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 34 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
