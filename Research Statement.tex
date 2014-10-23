@@ -1,5 +1,6 @@
 \documentclass[12pt]{amsart}
 \usepackage[margin=1in]{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\usepackage{color}
 \geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
 %\geometry{landscape}                % Activate for for rotated page geometry
 %\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
@@ -11,6 +12,7 @@
 \usepackage{graphicx}
 \usepackage{amssymb}
 \usepackage{epstopdf}
+\newcommand{\mbh}[1]{\textcolor{red}{ \emph{\scriptsize  #1}} }
 \DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
 
 \title{NSF-GRFP: Research Statement}
@@ -22,21 +24,21 @@
 %\section{}
 %\subsection{}
 
-The main focus of this project is the affects of admixture on populations of Zea, the genus containing maize.  
-Maize is the ideal system for this study not only because it is one of the most important world food crops \textbf{(citation)}, but also because it is spread over a wide area with many locally adapted populations.  
-Previous studies suggest some of these adaptions have been conferred to maize during it's spread across the Americas following domestication in either the Central Plateau of Mexico (CPM) or the Balsas River Valley of Mexico (BRVM) \textbf{(2 citations)}.  
-Admixture can allow locally adapted haplotypes to be transferred between populations by a process of repeated hybridization and natural selection.
+The main focus of this project is the affects of admixture on populations of Zea, the genus containing maize.  \mbh{I think you need a more general introduction here.  What doe the literature say about the significance of hybridization and introgression in the evolution of species?  How are domesticated species and their wild relatives unique opportunities to study hybridization and introgression given their history and relationship to each other?}
+Maize is the ideal system for this study not only because it is one of the most important world food crops \textbf{(citation)}, but also because it is spread over a wide area with many locally adapted populations.  \mbh{you'll need to be careful to distinguish between maize and teosinte...are we looking at local adaptation and gene flow in maize or in teosinte?}
+Previous studies suggest some of these adaptions have been conferred to maize during it's spread across the Americas following domestication in either the Central Plateau of Mexico (CPM) or the Balsas River Valley of Mexico (BRVM) \textbf{(2 citations)}.  \mbh{Matsuoka \emph{et al.} 2002 pretty clearly demonstrated a single origin in the Balsas}
+Admixture can allow locally adapted haplotypes to be transferred between populations by a process of repeated hybridization and natural selection. \mbh{will need to add citation(s) here and consider whether we're talking about adaptive introgression or hybrid zone dynamics}
 
 %One issue with our current understanding of the evolution of Zea species and subspecies is that it is represented by a phylogenetic tree.  
 %Phylogenetic trees, while useful, are often an oversimplification of the relationships between populations which can include migrations between populations, hybridization between individuals and other events which cannot be represented on a traditional phylogenetic tree.  
 %By including measures of admixture we can draw a more clear picture of the evolutionary history of maize.
 %More specifically we can inform our phylogenetic trees with information about the relationship between maize and locally adapted allopatric wild Zea populations during the post-domestication spread of maize.
 
-I have discovered three populations of Mexican hybrids between lowland \textit{Zea mays ssp. parviglumis} (hereafter parviglumis) and highland \textit{Zea mays ssp. mexicana} (hereafter mexicana) in the CPM and in the northern and southern BRVM.
-Although teosinte represents a larger group, for the purposes of this document parviglumis and mexicana in aggregate will be called teosinte.
-These hybrid teosinte populations are believed to be in either modern or ancient hybrid zones.  
+I have discovered three populations of Mexican hybrids between lowland \textit{Zea mays ssp. parviglumis} (hereafter parviglumis) and highland \textit{Zea mays ssp. mexicana} (hereafter mexicana) in the CPM and in the northern and southern BRVM. \mbh{this sounds a bit like you found these by trekking through Mexico rather than identifying them analytically...I'd be a little more specific}
+Although teosinte represents all maize wild relatives in the genus {Zea}, for the purposes of this document parviglumis and mexicana in aggregate will be called teosinte.
+These hybrid teosinte populations are believed to be in either modern or ancient hybrid zones.  \mbh{there's really very little information out there to indicate the age of hybridization, but this is certainly something you could do as part of your project!}
 Hybrid zones exist on the borders between parapatric populations of different but closely related species where hybrids are easily formed regardless of whether there is a selective advantage to the hybrid phenotype.
-These hybrid populations have never been studied before and could potentially reveal information the history of maize and it's close relatives near the 2 proposed regions of domestication in the CNP and the BRVM \textbf{(2 citations)} .
+These hybrid populations have never been studied before and could potentially reveal information regarding the history of maize and it's close relatives near the 2 proposed regions of domestication in the CNP \mbh{again, CNP isn't thought to be a center of origin} and the BRVM \textbf{(2 citations)} .
 
 To better understand these hybrid populations I plan to investigate four questions: 
 \begin{enumerate} 
@@ -48,23 +50,23 @@ To better understand these hybrid populations I plan to investigate four questio
 
 I plan to use two datasets to answer these questions.  
 The first is an existing Single Nucleotide Polymorphism (SNP) dataset that has previously been used in three publications \textbf{(3 citations)}.  
-This dataset includes 983 SNPs and 2,793 individuals from all species and subspecies of Zea across the Americas as well as some members of the genus Tripsicum.  
+This dataset includes 983 SNPs and 2,793 individuals from all species and subspecies of Zea across the Americas as well as some members of the genus \emph{Tripsacum}.  
 %This data will provide me an opportunity to compare these hybrid populations to a broad spectrum of individuals across many regions and taxa.  
 %I also believe that using previously published datasets to answer new questions is a great way to take advantage of the growing pool of underused data freely available on internet databases.  
 
-Additionally, I would like to generate Genotyping By Sequencing data (GBS) of hybrid individuals as well as members of nearby populations of teosinte to answer more in-depth questions about the history of these hybrid populations as well as the nature and degree of admixture amongst the hybrid populations and between the hybrid populations and their neighbors.  
+Additionally, I would like to generate Genotyping By Sequencing data (GBS) of hybrid individuals as well as members of nearby populations of teosinte to answer more in-depth questions \mbh{will need to clearly lay out how higher density data will allow you to answer additional questions} about the history of these hybrid populations as well as the nature and degree of admixture amongst the hybrid populations and between the hybrid populations and their neighbors.  
 In order to acquire the GBS data I will need to personally do some sampling in the regions where these hybrid populations reside.  
-Due to the high crime rates in both BRVM regions and the recent Geurrero student massacre I will only collect samples in the CPM.% and will be therefore required to limit my study of the Balsas River Valley hybrid populations to what I can gather from the SNP dataset.
+Due to the high crime rates in both BRVM regions and the recent Guerrero student massacre I will only collect samples in the CPM.% and will be therefore required to limit my study of the Balsas River Valley hybrid populations to what I can gather from the SNP dataset.
 
 To identify the hybrids, I have analyzed the SNP dataset using the program STRUCTURE.  STRUCTURE provides a q-value matrix representing the percent attribution of an individual to a specified number of groups.  
 For the STRUCTURE analysis I used only Mexican samples of maize and teosinte and set the number of groups to 3.
 Samples of majority attribution to one teosinte with $\geq$ 25\% attribution to the other are considered to be hybrids.
-As these hybrid identifications are based on admixture proportions I plan to confirm them using Reich's F statistic.
+As these hybrid identifications are based on admixture proportions I plan to confirm them using Reich's F statistic. \mbh{will need to explain a bit more about this method and how it is complementary to STRUCTURE}
 These tools will allow me to identify the individuals and therefore roughly determine the range of the hybrid populations.
 
 To answer my second question about the origin and stability of the populations, one measure I plan to use is the relative fitness of the populations based on a common garden experiment in the CPM. 
 If these populations are stable, locally adapted populations that are fitting into a niche they should not only be present in the intermediate altitude, but also be more fit there and be less fit in higher and lower altitudes relative to mexicana and parviglumis respectively.
-I would also like to run the GBS data for the CPM hybrids through HapMix so that I can make a histogram of the lengths of ancestry segments.  
+I would also like to run the GBS data for the CPM hybrids through HapMix \mbh{more specifics here as well} so that I can make a histogram of the lengths of ancestry segments.  
 As ancestry segments of a hybrid individual should break up over time due to recombination, in the case that these population resulted from one or more hybridization events close in time there should be a peak of ancestry segments near a specific length.
 If these hybrids are the result of ongoing hybridization the histogram should look roughly like an exponential decay graph as most ancestry segments would be highly broken up and some would be longer.% indicating many hybridization events including recent events.
 
@@ -75,7 +77,8 @@ I also plan to use the D statistic from \textbf{person's paper (cite)} to determ
 To build a tree of these hybrids and proximal teosinte populations I will use a new software called Treemix.
 Phylogenetic trees, while useful, are often an oversimplification of the relationships between populations.% which can include migrations between populations, hybridization between individuals and other events which cannot be represented on a traditional phylogenetic tree.
 Treemix improves on these trees by adding directed and weighted migration edges to improve the statistical likelihood of the tree.
-In Addition to a STRUCTURE analysis of these groups to each other and their neighboring teosinte it should paint a clear picture of the introgression history amongst these hybrid groups including whether they were originally more parviglumis or mexicana and whether some hybrid populations are derived from others..
+In Addition to a STRUCTURE analysis of these groups to each other and their neighboring teosinte it should paint a clear picture of the introgression history amongst these hybrid groups including whether they were originally more parviglumis or mexicana and whether some hybrid populations are derived from others.
+\mbh{you have a good start toward framing your analyses in the questions, but we'll need to fit them in more fluidly in an evolutionary narrative}.
 
 Another thing that these data may tell is if there is a cline of attribution to certain teosinte based on the altitudinal gradient and what the width of the hybrid zone is. \textbf{(more hybrid zone talk)}
 
