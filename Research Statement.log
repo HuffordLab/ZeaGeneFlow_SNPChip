@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  28 OCT 2014 19:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  29 OCT 2014 08:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -310,11 +310,11 @@ Overfull \hbox (8.54008pt too wide) in paragraph at lines 78--83
 
 [2] [3] (./Research Statement.aux) ) 
 Here is how much of TeX's memory you used:
- 3376 strings out of 493315
- 44446 string characters out of 6137904
+ 3374 strings out of 493315
+ 44427 string characters out of 6137904
  113406 words of memory out of 5000000
- 6622 multiletter control sequences out of 15000+600000
- 12236 words of font info for 47 fonts, out of 8000000 for 9000
+ 6621 multiletter control sequences out of 15000+600000
+ 11891 words of font info for 46 fonts, out of 8000000 for 9000
  1118 hyphenation exceptions out of 8191
  42i,6n,32p,480b,243s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/t
@@ -326,12 +326,11 @@ ublic/amsfonts/cm/cmr8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmti10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmti12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmti9.pfb>
-Output written on "Research Statement.pdf" (3 pages, 149761 bytes).
+sfonts/cm/cmti12.pfb>
+Output written on "Research Statement.pdf" (3 pages, 134808 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
