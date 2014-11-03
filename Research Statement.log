@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  1 NOV 2014 14:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  3 NOV 2014 16:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -295,24 +295,21 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \MPnumerator=\count107
 \makeMPintoPDFobject=\count108
 \everyMPtoPDFconversion=\toks28
-)
-Underfull \vbox (badness 6741) has occurred while \output is active []
-
- [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (11.04622pt too wide) in paragraph at lines 66--72
+) [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (11.04622pt too wide) in paragraph at lines 60--65
 []$  \OT1/cmr/m/n/12 In ad-di-tion to the SNP dataset
  []
 
 
-Overfull \hbox (8.54008pt too wide) in paragraph at lines 73--78
+Overfull \hbox (8.54008pt too wide) in paragraph at lines 66--71
 []$  \OT1/cmr/m/n/12 To de-ter-mine
  []
 
 
-Underfull \vbox (badness 5519) has occurred while \output is active []
+Underfull \vbox (badness 2443) has occurred while \output is active []
 
  [2]
-Overfull \hbox (20.72661pt too wide) in paragraph at lines 100--117
+Overfull \hbox (20.72661pt too wide) in paragraph at lines 93--110
 []$  \OT1/cmr/bx/n/10.95 1: Ab-bott \OT1/cmr/m/n/10.95 and Bren-nan (2014). \OT
 1/cmr/m/it/10.95 Royal So-ci-ety Pub-lish-ing\OT1/cmr/m/n/10.95 , doi: 10.1098/
 rstb.2013.0346
@@ -322,11 +319,11 @@ rstb.2013.0346
 Here is how much of TeX's memory you used:
  3374 strings out of 493315
  44427 string characters out of 6137904
- 113406 words of memory out of 5000000
+ 113414 words of memory out of 5000000
  6621 multiletter control sequences out of 15000+600000
  11891 words of font info for 46 fonts, out of 8000000 for 9000
  1118 hyphenation exceptions out of 8191
- 42i,7n,32p,480b,196s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,7n,32p,418b,305s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/p
@@ -337,7 +334,7 @@ msfonts/cm/cmr9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmti10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti12.pfb>
-Output written on "Research Statement.pdf" (3 pages, 135791 bytes).
+Output written on "Research Statement.pdf" (3 pages, 133481 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
